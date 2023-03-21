@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "649143735619",
+    "project_id": "mignon-push",
+    "storage_bucket": "mignon-push.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649143735619:android:2f84866e42d7db1e580bf6",
+        "android_client_info": {
+          "package_name": "one.mignon.partner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649143735619-pqpjcgh6alcr2fvbvspsv8mpktj20il6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0BueHNwCYlR3r3mqkemmwaYutIsHRd3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649143735619-pqpjcgh6alcr2fvbvspsv8mpktj20il6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
